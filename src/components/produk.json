@@ -1,0 +1,38 @@
+[
+  {
+    "nama": "Kipas angin",
+    "harga": 50000,
+    "stok": 50,
+    "img": "https://cf.shopee.co.id/file/8d30a3907f02bd9db9687ed7993451d6_tn"
+  },
+  {
+    "nama": "TV",
+    "harga": 850000,
+    "stok": 50,
+    "img": "https://cf.shopee.co.id/file/d61adb81399043f0f4c27b3a8952f4b5_tn"
+  },
+  {
+    "nama": "Radio",
+    "harga": 250000,
+    "stok": 30,
+    "img": "https://cf.shopee.co.id/file/2e9cbf819b5cc95307f95c439e615811_tn"
+  },
+  {
+    "nama": "HP",
+    "harga": 850000,
+    "stok": 50,
+    "img": "https://cf.shopee.co.id/file/7df44972f60ea13f0781eb6cf1c9ddf6_tn"
+  },
+  {
+    "nama": "Senter",
+    "harga": 25000,
+    "stok": 100,
+    "img": "https://cf.shopee.co.id/file/ded2c34dd6f18094908f34c801f7615f_tn"
+  },
+  {
+    "nama": "Rice Cooker",
+    "harga": 250000,
+    "stok": 100,
+    "img": "https://cf.shopee.co.id/file/00ce36ec6a9055f9e11a0e936bc6109d_tn"
+  }
+]
